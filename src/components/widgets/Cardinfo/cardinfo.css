@@ -1,0 +1,20 @@
+:local(.cardInfo){
+    font-size: 11px;
+
+}
+
+:local(.cardInfo i){
+    margin-right: 5px;
+}
+
+:local(.teamName){
+    margin-right: 7px;
+    background: #d1d1d1d1;
+    color: #fff;
+    padding: 2px 5px;
+    
+}
+
+:local(.date) {
+    color: #2196f3;
+}
